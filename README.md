@@ -2,7 +2,7 @@
 
 ## 🌟 Highlights
 
-- A simple script for managing cluttered filespaces.
+- A simple script for managing cluttered filespaces
 - Organises on the basis of format. (Photos, Videos etc.)
 
 
