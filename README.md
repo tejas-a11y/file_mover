@@ -1,4 +1,4 @@
-# 📦 File Mover
+# 📦 Folder Organizer
 
 ## 🌟 Highlights
 
